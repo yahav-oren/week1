@@ -3,16 +3,24 @@
   "WorkspaceRootPath": "C:\\magshimim\\week1\\week1_task\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{102EDACC-4BFC-48E4-857B-1CA164C37EBC}|week1_task.vcxproj|C:\\magshimim\\week1\\week1_task\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{102EDACC-4BFC-48E4-857B-1CA164C37EBC}|week1_task.vcxproj|solutionrelative:main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{102EDACC-4BFC-48E4-857B-1CA164C37EBC}|week1_task.vcxproj|C:\\magshimim\\week1\\week1_task\\linkedlist.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{102EDACC-4BFC-48E4-857B-1CA164C37EBC}|week1_task.vcxproj|solutionrelative:linkedlist.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{102EDACC-4BFC-48E4-857B-1CA164C37EBC}|week1_task.vcxproj|C:\\magshimim\\week1\\week1_task\\linkedlist.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{102EDACC-4BFC-48E4-857B-1CA164C37EBC}|week1_task.vcxproj|solutionrelative:linkedlist.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{102EDACC-4BFC-48E4-857B-1CA164C37EBC}|week1_task.vcxproj|C:\\magshimim\\week1\\week1_task\\queue.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{102EDACC-4BFC-48E4-857B-1CA164C37EBC}|week1_task.vcxproj|solutionrelative:queue.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{102EDACC-4BFC-48E4-857B-1CA164C37EBC}|week1_task.vcxproj|C:\\magshimim\\week1\\week1_task\\queue.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{102EDACC-4BFC-48E4-857B-1CA164C37EBC}|week1_task.vcxproj|solutionrelative:queue.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{102EDACC-4BFC-48E4-857B-1CA164C37EBC}|week1_task.vcxproj|C:\\magshimim\\week1\\week1_task\\queue.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{102EDACC-4BFC-48E4-857B-1CA164C37EBC}|week1_task.vcxproj|solutionrelative:queue.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{102EDACC-4BFC-48E4-857B-1CA164C37EBC}|week1_task.vcxproj|C:\\magshimim\\week1\\week1_task\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{102EDACC-4BFC-48E4-857B-1CA164C37EBC}|week1_task.vcxproj|solutionrelative:main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,8 +30,34 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "linkedlist.cpp",
+              "DocumentMoniker": "C:\\magshimim\\week1\\week1_task\\linkedlist.cpp",
+              "RelativeDocumentMoniker": "linkedlist.cpp",
+              "ToolTip": "C:\\magshimim\\week1\\week1_task\\linkedlist.cpp",
+              "RelativeToolTip": "linkedlist.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEcAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-11-04T18:08:04.109Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "linkedlist.h",
+              "DocumentMoniker": "C:\\magshimim\\week1\\week1_task\\linkedlist.h",
+              "RelativeDocumentMoniker": "linkedlist.h",
+              "ToolTip": "C:\\magshimim\\week1\\week1_task\\linkedlist.h",
+              "RelativeToolTip": "linkedlist.h",
+              "ViewState": "AgIAABwAAAAAAAAAAAAAAA0AAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-11-04T18:04:05.207Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 2,
@@ -39,7 +73,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "queue.cpp",
               "DocumentMoniker": "C:\\magshimim\\week1\\week1_task\\queue.cpp",
               "RelativeDocumentMoniker": "queue.cpp",
@@ -52,7 +86,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "main.cpp",
               "DocumentMoniker": "C:\\magshimim\\week1\\week1_task\\main.cpp",
               "RelativeDocumentMoniker": "main.cpp",
