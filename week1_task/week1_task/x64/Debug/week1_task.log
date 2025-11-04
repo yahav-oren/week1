@@ -1,0 +1,8 @@
+﻿  main.cpp
+C:\magshimim\week1\week1_task\main.cpp(17,9): warning C4005: 'PURPLE': macro redefinition
+      C:\magshimim\week1\week1_task\main.cpp(11,9):
+      see previous definition of 'PURPLE'
+  
+  queue.cpp
+  Generating Code...
+  week1_task.vcxproj -> C:\magshimim\week1\week1_task\x64\Debug\week1_task.exe
