@@ -1,11 +1,11 @@
 #ifndef LINKEDLIST_H
 #define LINKEDLIST_H
 
-// כל צומת ברשימה
+
 struct Node
 {
-    unsigned int value;  // ערך חיובי
-    Node* next;          // מצביע לצומת הבא
+    unsigned int value;  
+    Node* next;          
 };
 
 
